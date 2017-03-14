@@ -1,8 +1,10 @@
 Getting Started
 
 LINKS 
-https://github.com
-https://gitter.im/WSFCSCareerCenterCoders/Lounge
+
+https://github.com 
+
+https://gitter.im/WSFCSCareerCenterCoders/Lounge 
 
 
 
