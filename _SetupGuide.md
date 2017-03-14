@@ -2,11 +2,11 @@
 
 ### LINKS
 
-Github: https://github.com 
+**Github:** https://github.com 
 
-Gitter Chat: https://gitter.im/WSFCSCareerCenterCoders/Lounge 
+**Gitter Chat:** https://gitter.im/WSFCSCareerCenterCoders/Lounge 
 
-CollabEdit : http://collabedit.com/
+**CollabEdit :** http://collabedit.com/
 
 
 ## Setting Up Github
