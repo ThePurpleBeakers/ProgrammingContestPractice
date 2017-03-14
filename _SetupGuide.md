@@ -1,14 +1,17 @@
-Getting Started
+# Getting Started
 
-LINKS 
+### LINKS
 
-https://github.com 
+Github: https://github.com 
 
-https://gitter.im/WSFCSCareerCenterCoders/Lounge 
+Gitter Chat: https://gitter.im/WSFCSCareerCenterCoders/Lounge 
+
+CollabEdit : http://collabedit.com/
 
 
+## Setting Up Github
 
-**Setting Up Github**
+## Setting Up Gitter
 
-**Setting Up Gitter**
+## About CollabEdit
 
