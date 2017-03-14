@@ -16,18 +16,13 @@ Github is a website where we will be able to post code online and share it with 
 #### Github Account
 
 1) Go to this link: https://github.com/join?source=header-home
-2) Fill in the required information
+2) Fill in the required information. I would make your username your name. Ex. malcolmjones or jonesmalcolm
 3) Verify you Github account by checking your email.
 
 
 ## Setting Up Gitter
 
 Gitter will be our main chat. It is good because it is quick and we can send snippets of code. Its really easy to use and very nice. 
-
-This is what it looks like.
-
-![Gitter](https://ibb.co/jehnwF)
-
 
 
 1) Once you your Github account created go to https://gitter.im/ and sign in using your Github account. You will need to allow Gitter to use your Github account so allow it when it asks you to.
