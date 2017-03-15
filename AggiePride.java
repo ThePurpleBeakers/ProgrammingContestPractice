@@ -26,7 +26,7 @@ public class AggiePride
 		{
 			if (j >= phrase.length())
 			{
-				j = j - phrase.length();
+				j -= phrase.length();
 			}
 
 			output += phrase.substring(j, j + 1);
