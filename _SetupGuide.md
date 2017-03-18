@@ -31,6 +31,5 @@ Gitter will be our main chat. It is good because it is quick and we can send sni
 
 3) I will add you to the WSFCSCareerCenterCoders community
 
-## About CollabEdit
 
 
