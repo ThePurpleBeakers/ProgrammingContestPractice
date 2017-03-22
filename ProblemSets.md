@@ -10,3 +10,5 @@
 [UMD High School Contest Problems 2016](http://www.cs.umd.edu/Outreach/hsContest16/questions/problems.pdf)
 
 [UMD High School Contest Problems 2015](http://www.cs.umd.edu/Outreach/hsContest15/questions/all.pdf)
+
+[IMD High School Contest Problems 2011](http://www.cs.umd.edu/Outreach/hsContest11/questions/all.pdf)
