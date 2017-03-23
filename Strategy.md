@@ -5,7 +5,7 @@
 - How long should it take us to read a through the problems the first time?
 - How should we rank the difficulty of problems?
 - What do we use to determine how hard or easy problem is?
-- What scale should we use to determine difficulty (Hard, Medium, Easy Levels or Estimated Time or etc.)
+- What scale should we use to determine difficulty (Hard, Medium, Easy Levels or Estimated Time or or 1-5 Diffulty Scale or etc.)
 - How long should it take us to really read one problem?
 - How should we read a problem?
 
