@@ -23,6 +23,7 @@ Looking at how hard or easy the inputs and outputs look.
 understand how to read the input in.
 Know what the input is saying.
 Understand what the output is.
+During evaluating time take time to try to understand what could be used to finish the project.
 
 - What should we do when we don't understand a problem?
 
